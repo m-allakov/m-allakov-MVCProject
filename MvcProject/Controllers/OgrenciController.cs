@@ -22,8 +22,8 @@ namespace İntProgOdev.Controllers
             //    ogr.Numara = 123;
 
             //    ogrt = new Ogretmen();
-            //    ogrt.Ad = "Mustafa Melih";
-            //    ogrt.Soyad = "Durmuşoğlu";
+            //    ogrt.Ad = "Muhammet";
+            //    ogrt.Soyad = "Ali";
             //    ogrt.OgretmenId = 1;
 
             //    ds = new Ders();
